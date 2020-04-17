@@ -1,3 +1,9 @@
+body{
+	letter-spacing: .3px;
+}
+a,a:hover,a:focus,a:active{
+	text-decoration: none;
+}
 img{
 	max-width: 100%;
 }
